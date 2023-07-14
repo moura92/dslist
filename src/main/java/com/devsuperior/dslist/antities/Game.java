@@ -39,7 +39,7 @@ public class Game {
 				String title, 
 				Integer year, 
 				String genre, 
-				String plataforms, 
+				String platforms, 
 				Double score, 
 				String imgUrl,
 				String shortdescription, 
